@@ -21,7 +21,10 @@ body {
     font-weight: bold;
     color: white;
 }
-
+.CC{
+    background-color: aliceblue;
+    border-radius: 10px;
+}
 .calculator {
     color: #f4f4f4;
 }

@@ -21,7 +21,7 @@ body {
 }
 .login-container h2 {
     margin-bottom: 15px;
-    color: white;
+    color: green;
 }
 .input-field {
     width: 100%;
@@ -42,6 +42,7 @@ body {
     transition: 0.3s;
 }
 .btn:hover {
-    background: #068f36;
+    background: green;
+    color: yellow;
 }
 

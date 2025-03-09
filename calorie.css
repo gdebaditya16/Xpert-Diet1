@@ -6,7 +6,6 @@ body {
     height: 100vh;
     background-color: #f4f4f4;
     background-image: url(bg.jpg);
-
 }
 
 .container {
@@ -16,7 +15,6 @@ body {
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
     width: 300px;
     text-align: center;
-    background-image: url(bg-img.jpg)
 }
 .calorie{
     font-size: large;

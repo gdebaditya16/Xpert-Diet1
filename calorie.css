@@ -13,6 +13,12 @@ body {
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
     width: 300px;
     text-align: center;
+    background-image: url(bg-img.jpg)
+}
+.calorie{
+    font-size: large;
+    font-weight: bold;
+    color: white;
 }
 input, select, button {
     width: 100%;
